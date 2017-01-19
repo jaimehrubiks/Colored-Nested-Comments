@@ -1,6 +1,10 @@
 ## COLORED NESTED COMMENTS
 CNC is a browser extension which aims to help users quickly identify the level of a nested comments' hierarchy. Color and bars are used to highlight the firt four levels of nesting in comments for some popular websites.
 
+# Download and Install
++ You can download from chrome store: https://chrome.google.com/webstore/detail/hnaejhopebcgfgocefdcjejnfoedffgh/publish-accepted
++ You can also download zip from github and install as a developer extension
+
 # Supported Sites
 - *.reddit.com 
 - *.news.ycombinator.com
