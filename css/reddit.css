@@ -1,0 +1,39 @@
+.commentarea > .sitetable > .comment > .entry{
+    border-left: 2px solid orangered;
+    padding-left: 10px;
+}
+
+.commentarea > .sitetable > .comment > .child{
+    margin-left: 30px;
+    border: none !important;
+}
+
+.commentarea > .sitetable > .comment > .child > .sitetable > .comment > .entry{
+    border-left: 2px dotted orangered;
+    padding-left: 10px;
+}
+
+.commentarea > .sitetable > .comment > .child > .sitetable > .comment > .child{
+    margin-left: 40px;
+    border: none !important;
+}
+
+.commentarea > .sitetable > .comment > .child > .sitetable > .comment > .child > .sitetable > .comment > .entry{
+    border-left: 1px solid #596774;
+    padding-left: 10px;
+}
+
+.commentarea > .sitetable > .comment > .child > .sitetable > .comment > .child > .sitetable > .comment > .child{
+    margin-left: 50px;
+    border: none !important;
+}
+
+.commentarea > .sitetable > .comment > .child > .sitetable > .comment > .child > .sitetable > .comment > .child > .sitetable > .comment > .entry{
+    border-left: 1px dashed #596774;
+    padding-left: 10px;
+}
+
+.commentarea > .sitetable > .comment > .child > .sitetable > .comment > .child > .sitetable > .comment > .child > .sitetable > .comment > .child{
+    margin-left: 60px;
+    border: none !important;
+}

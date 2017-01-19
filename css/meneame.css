@@ -1,0 +1,19 @@
+#newswrap > .comments > .threader > [id^=c-] {
+    border-left: 2px solid #F5720E !important;
+    padding-left: 5px;
+}
+
+#newswrap > .comments > .threader > .threader > [id^=c-] {
+    border-left: 2px dotted #F5720E !important;
+    padding-left: 5px;
+}
+
+#newswrap > .comments > .threader > .threader > .threader > [id^=c-] {
+    border-left: 1px solid #596774 !important;
+    padding-left: 5px;
+}
+
+#newswrap > .comments > .threader > .threader > .threader > .threader > [id^=c-] {
+    border-left: 1px dashed #596774 !important;
+    padding-left: 5px;
+}

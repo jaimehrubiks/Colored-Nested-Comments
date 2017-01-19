@@ -1,0 +1,19 @@
+img[src='s.gif'][width='0']     { 
+    border-left: 2px solid #ff6600;
+    height: 100%;
+}
+
+img[src='s.gif'][width='40']     { 
+    border-right: 2px dotted #ff6600;
+    height: 100%;
+}
+
+img[src='s.gif'][width='80']     { 
+    border-right: 1px solid #596774;
+    height: 100%;
+}
+
+img[src='s.gif'][width='120']     { 
+    border-right: 1px dashed #596774;
+    height: 100%;
+}
