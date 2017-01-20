@@ -3,7 +3,7 @@
 
   "name": "Colored Nested Comments",
   "description": "CNC is a browser extension which aims to help users quickly identify the level of a nested comments' hierarchy.",
-  "version": "1.0",
+  "version": "1.1",
   "author": "Jaime Hidalgo García - JaimehRubiks",
 
   "permissions": [
